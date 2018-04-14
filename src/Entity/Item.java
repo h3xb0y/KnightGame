@@ -45,7 +45,31 @@ public class Item extends MapObject {
 
     public boolean isPicked() { return picked; }
 
+    protected void getNextPosition()
+    {
+        if(left)
+        {
+            dx -= moveSpeed;
+            if(dx < -maxSpeed)
+            {
+                dx = -maxSpeed;
+            }
+        }
+        else if(right)
+        {
+            dx += moveSpeed;
+            if(dx > maxSpeed)
+            {
+                dx = maxSpeed;
+            }
+        }
 
+        // falling
+        if(falling)
+        {
+            dy += fallSpeed;
+        }
+    }
     public void hit(int damage)
     {
         if(picked || flinching)

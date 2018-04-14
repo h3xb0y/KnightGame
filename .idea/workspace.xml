@@ -6,8 +6,57 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee058e56-d2dd-42d6-adfd-7b242d56bb36" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="" />
+    <list default="true" id="ee058e56-d2dd-42d6-adfd-7b242d56bb36" name="Default" comment="JRSUI fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bin/apple/laf/JRSUIConstants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/Entity/Items/KnightShield2Item.class" afterPath="$PROJECT_DIR$/out/production/Knight-Game/Entity/Items/KnightShield2Item.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/Entity/Items/KnightShieldItem.class" afterPath="$PROJECT_DIR$/out/production/Knight-Game/Entity/Items/KnightShieldItem.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$AlignmentHorizontal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$AlignmentVertical.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Animating.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$ArrowsOnly.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$BooleanValue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Direction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$DoubleValue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Focused.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$FrameOnly.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Hit.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$IndicatorOnly.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Key.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$NoIndicator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$NothingToScroll.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Orientation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Property.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$PropertyEncoding.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$ScrollBarHit.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$ScrollBarPart.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$SegmentLeadingSeparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$SegmentPosition.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$SegmentTrailingSeparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$ShowArrows.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Size.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$State.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Variant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$Widget.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$WindowClipCorners.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$WindowTitleBarSeparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants$WindowType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/JRSUIConstants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Knight-Game/apple/laf/JRSUIConstants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Item.java" afterPath="$PROJECT_DIR$/src/Entity/Item.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/AmuletItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/AmuletItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/AppleItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/AppleItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/ArmorItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/ArmorItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/ElixirItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/ElixirItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/HammerItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/HammerItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightBootsItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightBootsItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Items/StoneItem.java" afterPath="$PROJECT_DIR$/src/Entity/Items/StoneItem.java" />
+      <change beforePath="$PROJECT_DIR$/src/JRSUIConstants.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,88 +67,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Player.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StoneItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Items/StoneItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-986">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="215">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="94" selection-end-column="5" />
               <folding>
-                <element signature="method#Player#0;class#Player#0" expanded="false" />
-                <element signature="method#setMoney#0;class#Player#0" expanded="false" />
-                <element signature="method#setHunger#0;class#Player#0" expanded="false" />
-                <element signature="method#useHammer#0;class#Player#0" expanded="false" />
-                <element signature="method#AttackHealth#0;class#Player#0" expanded="false" />
-                <element signature="method#AttackArmor#0;class#Player#0" expanded="false" />
-                <element signature="method#AddExp#0;class#Player#0" expanded="false" />
-                <element signature="method#checkAttack#0;class#Player#0" expanded="false" />
-                <element signature="method#checkItem#0;class#Player#0" expanded="false" />
-                <element signature="method#hit#0;class#Player#0" expanded="false" />
-                <element signature="method#getNextPosition#0;class#Player#0" expanded="false" />
-                <element signature="method#update#0;class#Player#0" expanded="false" />
-                <element signature="e#11678#11876#0" expanded="false" />
-                <element signature="method#draw#0;class#Player#0" expanded="false" />
+                <element signature="e#1620#1621#0" expanded="true" />
+                <element signature="e#1647#1648#0" expanded="true" />
+                <element signature="e#1687#1688#0" expanded="true" />
+                <element signature="e#1719#1720#0" expanded="true" />
+                <element signature="e#1764#1765#0" expanded="true" />
+                <element signature="e#1791#1792#0" expanded="true" />
+                <element signature="e#1843#1844#0" expanded="true" />
+                <element signature="e#1877#1878#0" expanded="true" />
+                <element signature="e#1920#1921#0" expanded="true" />
+                <element signature="e#1948#1949#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmuletItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/AmuletItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightShieldItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightShield2Item.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ElixirItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/ElixirItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightHelmetItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArmorItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entity/Items/ArmorItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -107,19 +92,79 @@
       <file leaf-file-name="KnightSwordItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="331">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+              <folding>
+                <element signature="e#1637#1638#0" expanded="true" />
+                <element signature="e#1664#1665#0" expanded="true" />
+                <element signature="e#1747#1748#0" expanded="true" />
+                <element signature="e#1779#1780#0" expanded="true" />
+                <element signature="e#1831#1832#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+                <element signature="e#1910#1911#0" expanded="true" />
+                <element signature="e#1937#1938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnightShieldItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="95" column="1" lean-forward="true" selection-start-line="73" selection-start-column="4" selection-end-line="95" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1617#1618#0" expanded="true" />
+                <element signature="e#1644#1645#0" expanded="true" />
+                <element signature="e#1684#1685#0" expanded="true" />
+                <element signature="e#1716#1717#0" expanded="true" />
+                <element signature="e#1761#1762#0" expanded="true" />
+                <element signature="e#1788#1789#0" expanded="true" />
+                <element signature="e#1840#1841#0" expanded="true" />
+                <element signature="e#1874#1875#0" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+                <element signature="e#1945#1946#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnightShield2Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-91">
+              <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KnightSword2Item.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-775">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnightSword2Item.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="331">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+              <folding>
+                <element signature="e#1640#1641#0" expanded="true" />
+                <element signature="e#1667#1668#0" expanded="true" />
+                <element signature="e#1750#1751#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+                <element signature="e#1868#1869#0" expanded="true" />
+                <element signature="e#1913#1914#0" expanded="true" />
+                <element signature="e#1940#1941#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,17 +183,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/GameState/Level1State.java" />
-        <option value="$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java" />
         <option value="$PROJECT_DIR$/src/Entity/HUD/HUD.java" />
         <option value="$PROJECT_DIR$/src/Main/GameApplication.java" />
         <option value="$PROJECT_DIR$/src/TileMap/Tile.java" />
         <option value="$PROJECT_DIR$/src/Entity/Player.java" />
         <option value="$PROJECT_DIR$/src/Entity/MapObject.java" />
-        <option value="$PROJECT_DIR$/src/Entity/Item.java" />
         <option value="$PROJECT_DIR$/src/Entity/FireBall.java" />
         <option value="$PROJECT_DIR$/src/Entity/Enemy.java" />
         <option value="$PROJECT_DIR$/src/Entity/HUD/DrawShop.java" />
         <option value="$PROJECT_DIR$/src/Entity/HUD/DrawStats.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Item.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightBootsItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/ArmorItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/HammerItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/ElixirItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/AppleItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/AmuletItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/StoneItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java" />
       </list>
     </option>
   </component>
@@ -186,6 +242,11 @@
             <path>
               <item name="Knight-Game" type="b2602c69:ProjectViewProjectNode" />
               <item name="Knight-Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Knight-Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Knight-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Knight-Game" type="b2602c69:ProjectViewProjectNode" />
@@ -234,10 +295,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,6 +314,7 @@
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="knight-game" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="jrsui&#9;FILE&#9;file:///home/h3x/IdeaProjects/Knight-Game/bin/apple/laf/JRSUIConstants.class" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -396,6 +458,8 @@
       <workItem from="1523441733765" duration="3523000" />
       <workItem from="1523445460393" duration="793000" />
       <workItem from="1523446329782" duration="3499000" />
+      <workItem from="1523603164747" duration="894000" />
+      <workItem from="1523689715265" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="JRSUI fix">
       <created>1523447795812</created>
@@ -408,15 +472,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8753000" />
+    <option name="totallyTimeSpent" value="10135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1368" height="744" extended-state="6" />
+    <frame x="9" y="47" width="1368" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -427,7 +491,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -458,11 +522,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1761#1762#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1945#1946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ElixirItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ArmorItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1779#1780#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/HUD/HUD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,25 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#244#245#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#553#554#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#618#619#0" expanded="false" />
-            <element signature="e#650#651#0" expanded="false" />
-            <element signature="e#687#688#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-            <element signature="e#1151#1152#0" expanded="false" />
-            <element signature="e#1178#1179#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -649,26 +779,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/AppleItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1248">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/HUD/DrawShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#DrawShop#1;class#DrawShop#0" expanded="false" />
-            <element signature="method#LoadIcons#0;class#DrawShop#0" expanded="false" />
-            <element signature="method#PreDraw#0;class#DrawShop#0" expanded="false" />
-            <element signature="method#Draw#0;class#DrawShop#0" expanded="false" />
-            <element signature="method#ListenClicks#0;class#DrawShop#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,19 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-129">
           <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <element signature="method#DrawInventory#1;class#DrawInventory#0" expanded="false" />
-            <element signature="method#LoadIcons#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#PreDraw#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#Draw#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#ListenClicks#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#getIcon#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#PlayerClothing#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#checkItem#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#PlayerTakingOff#0;class#DrawInventory#0" expanded="false" />
-            <element signature="method#showClothingItems#0;class#DrawInventory#0" expanded="false" />
-            <marker date="1523428737000" expanded="false" signature="574:965" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,10 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="method#DrawStats#0;class#DrawStats#0" expanded="false" />
-            <element signature="method#Draw#0;class#DrawStats#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-894">
           <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,13 +827,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/apple/laf/JRSUIConstants.class" />
+    <entry file="file://$PROJECT_DIR$/bin/GameState/MenuState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
+        <state relative-caret-position="238">
           <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="method#Player#0;class#Player#0" expanded="false" />
@@ -758,66 +861,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/AmuletItem.java">
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ArmorItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ElixirItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightHelmetItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ArmorItem.java">
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightBootsItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="333">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/HammerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/ElixirItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/AppleItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/AmuletItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+          <folding>
+            <element signature="method#AmuletItem#0;class#AmuletItem#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/StoneItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="e#1620#1621#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1791#1792#0" expanded="true" />
+            <element signature="e#1843#1844#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+            <element signature="e#1920#1921#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSwordItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="331">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1779#1780#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightSword2Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="331">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShieldItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="95" column="1" lean-forward="true" selection-start-line="73" selection-start-column="4" selection-end-line="95" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1761#1762#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1945#1946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Items/KnightShield2Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-775">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>

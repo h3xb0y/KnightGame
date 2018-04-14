@@ -54,31 +54,7 @@ public class KnightShield2Item extends Item {
         facingRight = true;
     }
 
-    private void getNextPosition()
-    {
-        if(left)
-        {
-            dx -= moveSpeed;
-            if(dx < -maxSpeed)
-            {
-                dx = -maxSpeed;
-            }
-        }
-        else if(right)
-        {
-            dx += moveSpeed;
-            if(dx > maxSpeed)
-            {
-                dx = maxSpeed;
-            }
-        }
 
-        // falling
-        if(falling)
-        {
-            dy += fallSpeed;
-        }
-    }
 
     public void update()
     {
